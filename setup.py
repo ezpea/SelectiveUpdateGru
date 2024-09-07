@@ -7,8 +7,8 @@ setup(
     install_requires=[
         'torch',
     ],
-    author=''
-    author_email=''
+    author='ezpea',
+    author_email='ezpea',
     description='A custom GRU that selectively updates its hidden state based on a control signal.',
     url='https://github.com/ezpea/SelectiveUpdateGru',
 )
